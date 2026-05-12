@@ -137,6 +137,7 @@ db:
 
 * ¿Es coherente el TCO con la realidad de una PYME?
 
+
 Sí, el TCO es sumamente coherente y beneficioso para una PYME, ya que les permite tomar decisiones de inversion mas inteligentes al considerar mas costes asociados a un activo y no solo el precio inicial.
 
 <img width="800" height="534" alt="image" src="https://github.com/user-attachments/assets/bfca2b65-3315-4d53-9455-f33c1b8d0b95" />
