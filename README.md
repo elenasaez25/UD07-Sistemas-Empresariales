@@ -18,6 +18,9 @@ La tarea es entregar una **Propuesta Técnica de Implantación** que cubra los s
 
 Debemos elegir entre **Odoo (SaaS o Community)**, **SAP S/4HANA** o **Zoho One**.
 
+<img width="865" height="744" alt="Captura de pantalla 2026-05-12 095518" src="https://github.com/user-attachments/assets/468f4bf5-c054-4d75-9ece-96bcb9e0b7a9" />
+
+
 Una vez analizado el número de empleados, nos encontramos antes una pyme (pequeña empresa, de 10 a 50 empleados), por lo que  tenemos un capital bastante más limitado. Para podernos ajustarnos a este presupuesto, tenemos que descartar la opción de SAP, ya que es la más costosa de todas ellas pese a que es la más potente, pero debido a su alto costo solo se emplea en empresas multinacionales o sociedades anónimas de gran poder adquisitivo ( su coste  va de 1500€-3000€ por usuario al año más un coste de implementación que puede ir desde los 50000€ a los 5000000€), además de que la curva de aprendizaje es la más alta de todas ellas. 
 
 Si tuviéramos que decantarnos por una de ellas la que más se adecuaba a nuestras necesidades sería odoo Community, debido a que cubre las necesidades básicas de cualquier empresa como serian: control de inventario, área de ventas y su parte contable, esta última si añadimos módulos adicionales de la comunidad de forma gratuita (, nos permitirá poder utilizarlo para presentarlos a hacienda directamente. Incluido todo esto también tiene la capacidad de cumplir con la especificación del etiquetado que nos marca nuestro cliente, ya que al ser de código abierto tenemos libertad para modificar y adaptar este etiquetado a nuestras necesidades.
@@ -26,7 +29,7 @@ La mayor desventaja de este sistema es que no cuenta con soporte técnico, la ú
 
 2\.
 
-Resumiendo como hemos comentado previamente el coste de Odoo Community, el coste es gratuito. Pero más a largo plazo a 3 años cambiaríamos a Odoo SaaS ya que tiene mayor seguridad y el coste no es mucho más caro.
+Resumiendo como hemos comentado previamente el coste de Odoo Community, el coste es gratuito. Pero más a largo plazo a 3 años cambiaríamos a Odoo SaaS ya que tiene mayor seguridad y el coste no es mucho más caro, debido a que pensamos que nuestra empresa va a tener una evolución  creciente y vamos a tener más trabajadores y más clientes futuros. En caso de que esto no mejorase en gran medida continuaremos con Odoo Community.
 
 ## 
 
