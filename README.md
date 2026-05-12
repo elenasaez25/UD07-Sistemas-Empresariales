@@ -14,7 +14,7 @@ La empresa sevillana **"Aceites del Aljarafe S.L."** opera actualmente con el "E
 
 La tarea es entregar una **Propuesta Técnica de Implantación** que cubra los siguientes tres bloques fundamentales:
 
-## Bloque A: Análisis de Mercado y Selección (CE a, c)
+## Bloque A: Análisis de Mercado y Selección
 
 Debemos elegir entre **Odoo (SaaS o Community)**, **SAP S/4HANA** o **Zoho One**.
 
@@ -32,12 +32,17 @@ La mayor desventaja de este sistema es que no cuenta con soporte técnico, la ú
 Resumiendo como hemos comentado previamente el coste de Odoo Community, el coste es gratuito. Pero más a largo plazo a 3 años cambiaríamos a Odoo SaaS ya que tiene mayor seguridad y el coste no es mucho más alto, debido a que pensamos que nuestra empresa va a tener una evolución  creciente y vamos a tener más trabajadores y más clientes futuros. En caso de que esto no mejorase en gran medida debido a un estancamiento del mercado o incluso a un receso, mantendriamos la utilizacion de Odoo Community al ser mas simple y eficaz pero tendremos que tener mas cuidado con al seguridad de nuestra empresa.
 <img width="690" height="491" alt="Group 1237" src="https://github.com/user-attachments/assets/eee69aa0-062f-4fee-bc52-a17d05bd1e9c" />
 
+A nivel empresarial analizando un poco mas el servicio de la empresa aceitera, segun este grafico, España esta siendo la mayor exportado de aceite a nivel mundial mas de 55% del aceite proviene de nuestro pais por lo que incluso a mas año puede que nos convirtamos en una sociedad anonima y ya hay ya podamos dar el gran paso a un sistema como SAP.
+
+<img width="1156" height="540" alt="image" src="https://github.com/user-attachments/assets/458bf558-e64d-4030-a88e-48425972261f" />
+
+
 
 ## 
 
 ## 
 
-## Bloque B: Diseño de Seguridad RBAC (CE f)
+## Bloque B: Diseño de Seguridad RBAC 
 Lo fundamental para cualquier sistema de gestión empresarial es realizar una **matriz de permisos**, relacionando cada rol con sus respectivos permisos y comparándolos entre ellos. Para hacer una buena organización de la empresa, es esencial el uso del **Principio de Menor Privilegio**. Esto consiste en darle los permisos mínimos a cada rol para que cada empleado pueda realizar su trabajo correctamente, teniendo acceso únicamente a lo que necesite para ello.
 
 | Rol/Permisos | Clientes | Presupuestos | Stock | Docs entrada y salida | Facturas |
