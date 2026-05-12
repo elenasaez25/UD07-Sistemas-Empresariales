@@ -38,6 +38,7 @@ Resumiendo como hemos comentado previamente el coste de Odoo Community, el coste
 ## 
 
 ## Bloque B: Diseño de Seguridad RBAC (CE f)
+Lo fundamental para cualquier sistema de gestión empresarial es realizar una **matriz de permisos**, relacionando cada rol con sus respectivos permisos y comparándolos entre ellos. Para hacer una buena organización de la empresa, es esencial el uso del **Principio de Menor Privilegio**. Esto consiste en darle los permisos mínimos a cada rol para que cada empleado pueda realizar su trabajo correctamente, teniendo acceso únicamente a lo que necesite para ello.
 
 | Rol/Permisos | Clientes | Presupuestos | Stock | Docs entrada y salida | Facturas |
 | :---- | ----- | ----- | ----- | ----- | ----- |
