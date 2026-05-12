@@ -29,7 +29,9 @@ La mayor desventaja de este sistema es que no cuenta con soporte técnico, la ú
 
 2\.
 
-Resumiendo como hemos comentado previamente el coste de Odoo Community, el coste es gratuito. Pero más a largo plazo a 3 años cambiaríamos a Odoo SaaS ya que tiene mayor seguridad y el coste no es mucho más caro, debido a que pensamos que nuestra empresa va a tener una evolución  creciente y vamos a tener más trabajadores y más clientes futuros. En caso de que esto no mejorase en gran medida continuaremos con Odoo Community.
+Resumiendo como hemos comentado previamente el coste de Odoo Community, el coste es gratuito. Pero más a largo plazo a 3 años cambiaríamos a Odoo SaaS ya que tiene mayor seguridad y el coste no es mucho más alto, debido a que pensamos que nuestra empresa va a tener una evolución  creciente y vamos a tener más trabajadores y más clientes futuros. En caso de que esto no mejorase en gran medida debido a un estancamiento del mercado o incluso a un receso, mantendriamos la utilizacion de Odoo Community al ser mas simple y eficaz pero tendremos que tener mas cuidado con al seguridad de nuestra empresa.
+<img width="690" height="491" alt="Group 1237" src="https://github.com/user-attachments/assets/eee69aa0-062f-4fee-bc52-a17d05bd1e9c" />
+
 
 ## 
 
