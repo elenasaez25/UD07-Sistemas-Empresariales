@@ -138,18 +138,22 @@ db:
 * ¿Es coherente el TCO con la realidad de una PYME?
 
 Sí, el TCO es sumamente coherente y beneficioso para una PYME, ya que les permite tomar decisiones de inversion mas inteligentes al considerar mas costes asociados a un activo y no solo el precio inicial.
+
 <img width="800" height="534" alt="image" src="https://github.com/user-attachments/assets/bfca2b65-3315-4d53-9455-f33c1b8d0b95" />
+
 <img width="620" height="300" alt="image" src="https://github.com/user-attachments/assets/9f0d8e3d-d922-4e55-9ace-2b6cebd10e6f" />
 
 
 * ¿La matriz RBAC evita que el comercial vea los costes de producción?
 
 Sí, la matriz RBAC evita que personal no autorizado, como el comercial visualice informacion sensible como los costes de produccion. Este sistema permite restringir el acceso basandose en el principio de menor privilegio.
+
 <img width="556" height="239" alt="image" src="https://github.com/user-attachments/assets/53644eac-0706-4680-bfc3-179b4c377077" />
 
 * ¿El comando de backup es sintácticamente correcto?
 
 Sí, el comando backup es sumamente correcto. Aunque tambien se suele decir wbadmin en el cmd de Windows y en Ubuntu rsync.
+
 <img width="1125" height="829" alt="image" src="https://github.com/user-attachments/assets/5be33c80-cb66-449e-85c1-12106a0d2877" />
 
 # Bibliografía (IEEE)
