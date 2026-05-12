@@ -59,11 +59,10 @@ Y el **contable** únicamente puede leer las facturas, ya que su función es lle
 En primer lugar, el manual de despliegue contendrá el **docker-compose.yml** necesario en caso de que el sistema se caiga. Por último, es necesario proporcionar el comando para realizar un backup de la base de datos.
 
 1. Archivo `docker-compose.yml`
-
+   
 services:
 
-  odoo:
-
+	odoo:
     image: odoo:latest //Cómo vamos a elegir odoo, seleccionamos la versión más reciente.
 
     container\_name: odoo
@@ -79,8 +78,8 @@ services:
       \- "8200:8069" //Estos puertos cambiarían según las preferencias de la empresa.
 
     environment:
-
-//USER y PASSWORD por defecto, hasta que la empresa nos proporcione los datos que quieran poner.
+	
+    //USER y PASSWORD por defecto, hasta que la empresa nos proporcione los datos que quieran poner.
 
       \- HOST=db
 
@@ -97,10 +96,9 @@ services:
       \- ./addons:/mnt/extra-addons
 
     command: odoo \-d odoo \--db\_host=db \--db\_user=odoo \--db\_password=odoo
-
-  db:
-
-    image: postgres:16.0 //La imágen de la base de datos será postgres, también siendo una de las más recientes.
+db:
+    
+	image: postgres:16.0 //La imágen de la base de datos será postgres, también siendo una de las más recientes.
 
     container\_name: db
 
@@ -117,14 +115,11 @@ services:
     volumes: //Directorios donde se guardará la base de datos
 
       \- db-data:/var/lib/postgresql/data
+	  volumes:
+	    odoo-data:
+		db-data:
 
-volumes:
-
-  odoo-data:
-
-  db-data:
-
-2. Comando para realizar un backup de la base de datos PostgreSQL [\[1\]](https://platzi.com/blog/como-generar-una-backup-de-postgresql-y-como-restaurarla/)
+1. Comando para realizar un backup de la base de datos PostgreSQL [\[1\]](https://platzi.com/blog/como-generar-una-backup-de-postgresql-y-como-restaurarla/)
 
    ***pg\_dump \-U usuario \-W \-h host basename \> basename.sql***
 
