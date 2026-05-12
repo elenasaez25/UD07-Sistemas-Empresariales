@@ -131,7 +131,7 @@ db:
 
 	basename → Es el último parámetro que indica el nombre de la base de datos
 
-\> basename.sql → Indica que la salida del comando **pg\_dump** la guarde en un archivo llamado “basename.sql”. Se puede modificar al gusto.
+	basename.sql → Indica que la salida del comando **pg\_dump** la guarde en un archivo llamado “basename.sql”. Se puede modificar al gusto.
 
 # 3\. Conclusión
 
