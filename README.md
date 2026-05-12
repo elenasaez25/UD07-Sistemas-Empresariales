@@ -119,7 +119,7 @@ db:
 	    odoo-data:
 		db-data:
 
-1. Comando para realizar un backup de la base de datos PostgreSQL [\[1\]](https://platzi.com/blog/como-generar-una-backup-de-postgresql-y-como-restaurarla/)
+1. Comando para realizar un backup de la base de datos PostgreSQL
 
    ***pg\_dump \-U usuario \-W \-h host basename \> basename.sql***
 
@@ -144,3 +144,6 @@ Si la matriz RBAC evita que personal no autorizado,como el comercial visualice i
 * ¿El comando de backup es sintácticamente correcto?
 
 Si.el comando backup es sumamente correcto,aunque tambien se suele decir wbadmin en el cmd de Windows y en Ubuntu rsync.
+
+# Bibliografía (IEEE)
+[1] **Platzi** - ¿Cómo generar una backup de PostgreSQL y cómo restaurarla?, 12/05/2026. Disponible en: https://platzi.com/blog/como-generar-una-backup-de-postgresql-y-como-restaurarla/
